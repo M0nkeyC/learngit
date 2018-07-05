@@ -5,4 +5,8 @@ git installed at 2018/7/5
 git is my love
 I learn git first in artrade
 git is in computer
-Creating a new branch & quick
+<<<<<<< HEAD
+Creating a new branch is quick and simple
+=======
+Creating a new branch is quick and simple
+>>>>>>> feature1
